@@ -126,6 +126,7 @@ body {
     font-weight: var(--bringer-t-content-fw);
     color: var(--bringer-s-text);
     background: var(--bringer-s-body-bg);
+    background-color: #0f0715;
 }
 body.is-unloading {
     pointer-events: none;
