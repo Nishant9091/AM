@@ -26,10 +26,10 @@
     --bringer-s-text: #C5C7CE;
 
     /* A background color for accents, like buttons, highlighted blocks, etc. */
-    --bringer-s-accent: #8750f7;
+    --bringer-s-accent: linear-gradient(90deg, #2f175d, #4c2a8f, #673bbf, #854ff4);
 
     /* A hovered button background color */
-    --bringer-button-hover-bg: #2a1454;
+    --bringer-button-hover-bg: linear-gradient(90deg,#854ff4,#673bbf,#4c2a8f,#2f175d);
 
     /* Used as a color for text accents */
     --bringer-s-text-accent: #8750f7;
