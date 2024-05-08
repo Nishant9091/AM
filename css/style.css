@@ -126,7 +126,7 @@ body {
     font-weight: var(--bringer-t-content-fw);
     color: var(--bringer-s-text);
     background: var(--bringer-s-body-bg);
-    background-color: #0f0715;
+    background-image: linear-gradient(90deg, #0f0715, #140a20, #1b0e2e, #23133a);
 }
 body.is-unloading {
     pointer-events: none;
